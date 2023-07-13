@@ -12,11 +12,9 @@ Finalizado.
 ### Estructura de directorios y archivos resultantes
 
     Proyecto finalizacion - G3
-        ├── datos
-        │   ├── procesados      <-CSV proesados.
-        │   └── brutos           <- CSV originales.
+        ├── datos              <-Querys SQL DDL.
         │
-        ├── notebooks          <- Notebooks y/o Scripts.
+        ├── consultas          <- Querys SQL DML.
         │
         └── README.md          <- Detalles por escrito.
         
