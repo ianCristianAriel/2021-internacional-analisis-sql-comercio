@@ -11,7 +11,8 @@ Finalizado.
 
 ### Estructura de directorios y archivos resultantes
 
-    Proyecto finalizacion - G3
+    SQL, Tienda internacional
+        │
         ├── datos              <-Querys SQL DDL.
         │
         ├── consultas          <- Querys SQL DML.
