@@ -1,34 +1,35 @@
 # CaC2023-GuiaPracticaMySQL
-![imagen](/2.png)
+![Imagen del Proyecto](/2.png)
 
-### Estado del proyecto:
+### Estado del Proyecto
 Finalizado.
 
-### Estructura de directorios y archivos resultantes
+### Estructura de Directorios y Archivos Resultantes
 
     SQL, Tienda internacional
-        │
-        ├── datos              <-Querys SQL DDL.
-        │
-        ├── consultas          <- Querys SQL DML.
-        │
-        └── README.md          <- Detalles por escrito.
+    │
+    ├── datos # Querys SQL DDL
+    │
+    ├── consultas # Querys SQL DML
+    │
+    └── README.md # Detalles por escrito
         
-### Funciones y aplicaciones:
+
+### Funciones y Aplicaciones
 **Consultas DML**
 
- - Eliminación
- - Filtrado
- - Multitablas
- - Actualización
- - Agregación
- - Inserción
+- Eliminación
+- Filtrado
+- Multitablas
+- Actualización
+- Agregación
+- Inserción
 
-### Tecnologías utilizadas:
+### Tecnologías Utilizadas
 - SQL -> **MySQL**
 
-### Personas Desarrolladoras del Proyecto:
-[@ianCristianAriel](https://github.com/ianCristianAriel)
+### Persona Desarrolladora del Proyecto
+- [ianCristianAriel](https://github.com/ianCristianAriel)
 
 ### Licencia
 Guía práctica de SQL. Carlos E. Cimino, 9 de noviembre de 2018
