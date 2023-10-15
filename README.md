@@ -1,6 +1,3 @@
-# CaC2023-GuiaPracticaMySQL
-![Imagen del Proyecto](/2.png)
-
 ### Estado del Proyecto
 Finalizado.
 
@@ -32,4 +29,4 @@ Finalizado.
 - [ianCristianAriel](https://github.com/ianCristianAriel)
 
 ### Licencia
-Guía práctica de SQL. Carlos E. Cimino, 9 de noviembre de 2018
+- Guía práctica de SQL. Carlos E. Cimino, 9 de noviembre de 2018

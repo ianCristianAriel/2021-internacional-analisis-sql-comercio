@@ -17,29 +17,7 @@ USE `inupde`;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
---
--- Table structure for table `clientes`
---
 
-DROP TABLE IF EXISTS `clientes`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `clientes` (
-  `id_cliente` int(11) unsigned NOT NULL,
-  `dni` char(10) COLLATE utf8_spanish_ci NOT NULL,
-  `nombre` varchar(30) COLLATE utf8_spanish_ci NOT NULL,
-  `apellido` varchar(30) COLLATE utf8_spanish_ci NOT NULL,
-  `genero` enum('MUJER','HOMBRE') COLLATE utf8_spanish_ci NOT NULL,
-  `fecha_nacimiento` date NOT NULL,
-  `mail` varchar(45) COLLATE utf8_spanish_ci NOT NULL,
-  `movil` char(10) COLLATE utf8_spanish_ci NOT NULL,
-  `domicilio` varchar(60) COLLATE utf8_spanish_ci NOT NULL,
-  `barrio` varchar(30) COLLATE utf8_spanish_ci NOT NULL,
-  `nacionalidad` varchar(15) COLLATE utf8_spanish_ci NOT NULL,
-  PRIMARY KEY (`id_cliente`),
-  UNIQUE KEY `dni_UNIQUE` (`dni`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci;
-/*!40101 SET character_set_client = @saved_cs_client */;
 
 --
 -- Dumping data for table `clientes`
