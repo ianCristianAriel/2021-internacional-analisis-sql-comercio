@@ -24,10 +24,10 @@ Finalizado.
 
 ### Tecnologías Utilizadas
 - SQL
--     **MySQL**
--     **sqlite**
+    - **MySQL**
+    - **sqlite**
 - Python3
--     **sqlite3**
+    - **sqlite3**
 
 ### Persona Desarrolladora del Proyecto
 - [ianCristianAriel](https://github.com/ianCristianAriel)
