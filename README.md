@@ -23,7 +23,11 @@ Finalizado.
 - Inserción
 
 ### Tecnologías Utilizadas
-- SQL -> **MySQL**
+- SQL
+-     **MySQL**
+-     **sqlite**
+- Python3
+-     **sqlite3**
 
 ### Persona Desarrolladora del Proyecto
 - [ianCristianAriel](https://github.com/ianCristianAriel)
